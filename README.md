@@ -1,7 +1,5 @@
 # **CSI606-2021-02 - Estrutura básica do repositório**
 
-## Atualize os seus dados
-
 - Nome: Rodolfo Cezar de Figueiredo Coelho
 - Matrícula: 18.2.8160
 - Curso: Sistemas de Informação
@@ -9,8 +7,6 @@
 - Link para o seu GitHub: [https://github.com/rcfc1985](https://github.com/rcfc1985)
 
 ## [Projeto final:](./Projeto/README.md)
-
-Apresente uma breve descrição do seu projeto.
 
 Gestão de Empréstimo Pessoal de Livros
 ======================================
